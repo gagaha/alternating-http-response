@@ -1,0 +1,1 @@
+*/1  *  *  *  * /bin/bash -c "/usr/local/bin/change-http-response.sh"
